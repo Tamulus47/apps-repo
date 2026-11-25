@@ -5,7 +5,7 @@ Self-hosted [webOS Homebrew Channel](https://github.com/webosbrew/webos-homebrew
 | App | Package ID | Source |
 | --- | --- | --- |
 | **AncientTwitchWebOSTV** | `com.tamulus.ancienttwitchwebostv` | [Tamulus47/SmartTwitchWebOSTV](https://github.com/Tamulus47/SmartTwitchWebOSTV) |
-| **Kick TV** | `com.tamulus.ancientkickwebostv` | local (not published) |
+| **Kick TV** | `com.tamulus.ancientkickwebostv` | [Tamulus47/KickWebOSTV](https://github.com/Tamulus47/KickWebOSTV) |
 
 The package format follows [webosbrew/apps-repo](https://github.com/webosbrew/apps-repo) conventions — see the
 [Publishing guide](https://www.webosbrew.org/develop/guides/publishing/) for the field reference. This is a

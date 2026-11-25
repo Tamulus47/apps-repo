@@ -39,7 +39,7 @@
         "title": "Kick TV",
         "appDescription": "Kick TV client for webOS",
         "iconUri": "https://raw.githubusercontent.com/Tamulus47/apps-repo/main/icons/com.tamulus.ancientkickwebostv.png",
-        "sourceUrl": "https://github.com/Tamulus47/apps-repo",
+        "sourceUrl": "https://github.com/Tamulus47/KickWebOSTV",
         "rootRequired": false,
         "ipkUrl": "https://raw.githubusercontent.com/Tamulus47/apps-repo/main/apps/com.tamulus.ancientkickwebostv_1.0.0_all.ipk",
         "ipkHash": {
