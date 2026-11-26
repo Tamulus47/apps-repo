@@ -1,52 +1,52 @@
 {
-  "packages": [
-    {
-      "id": "com.tamulus.ancienttwitchwebostv",
-      "title": "AncientTwitchWebOSTV",
-      "iconUri": "https://raw.githubusercontent.com/Tamulus47/SmartTwitchWebOSTV/master/release/githubio/images/icon_circle.png",
-      "shortDescription": "AncientTwitchWebOSTV wrapper app for webOS with hosted compatibility bridge",
-      "fullDescriptionUrl": "https://raw.githubusercontent.com/Tamulus47/apps-repo/main/apps/com.tamulus.ancienttwitchwebostv.description.html",
-      "category": "internet",
-      "pool": "main",
-      "manifest": {
-        "id": "com.tamulus.ancienttwitchwebostv",
-        "version": "1.1.0",
-        "type": "web",
-        "title": "AncientTwitchWebOSTV",
-        "appDescription": "AncientTwitchWebOSTV wrapper app for webOS with hosted compatibility bridge",
-        "iconUri": "https://raw.githubusercontent.com/Tamulus47/SmartTwitchWebOSTV/master/release/githubio/images/icon_circle.png",
-        "sourceUrl": "https://github.com/Tamulus47/SmartTwitchWebOSTV",
-        "rootRequired": false,
-        "ipkUrl": "https://raw.githubusercontent.com/Tamulus47/apps-repo/main/apps/com.tamulus.ancienttwitchwebostv_1.1.0_all.ipk",
-        "ipkHash": {
-          "sha256": "d49bddf7727c227a03e6cfb22084b0c22f87a56e0c5e96a86bd694f42ff7cd5f"
-        },
-        "ipkSize": 70744
-      }
+ "packages": [
+  {
+   "id": "com.tamulus.ancienttwitchwebostv",
+   "title": "AncientTwitchWebOSTV",
+   "iconUri": "https://raw.githubusercontent.com/Tamulus47/SmartTwitchWebOSTV/master/release/githubio/images/icon_circle.png",
+   "shortDescription": "AncientTwitchWebOSTV wrapper app for webOS with hosted compatibility bridge",
+   "fullDescriptionUrl": "https://raw.githubusercontent.com/Tamulus47/apps-repo/main/apps/com.tamulus.ancienttwitchwebostv.description.html",
+   "category": "internet",
+   "pool": "main",
+   "manifest": {
+    "id": "com.tamulus.ancienttwitchwebostv",
+    "version": "1.1.4",
+    "type": "web",
+    "title": "AncientTwitchWebOSTV",
+    "appDescription": "AncientTwitchWebOSTV wrapper app for webOS with hosted compatibility bridge",
+    "iconUri": "https://raw.githubusercontent.com/Tamulus47/SmartTwitchWebOSTV/master/release/githubio/images/icon_circle.png",
+    "sourceUrl": "https://github.com/Tamulus47/SmartTwitchWebOSTV",
+    "rootRequired": false,
+    "ipkUrl": "https://raw.githubusercontent.com/Tamulus47/apps-repo/main/apps/com.tamulus.ancienttwitchwebostv_1.1.4_all.ipk",
+    "ipkHash": {
+     "sha256": "d2e3b44fcd18380ba1a011290b495dc16c5a4e9bb17ca7854ff58ae55d239fd8"
     },
-    {
-      "id": "com.tamulus.ancientkickwebostv",
-      "title": "Kick TV",
-      "iconUri": "https://raw.githubusercontent.com/Tamulus47/apps-repo/main/icons/com.tamulus.ancientkickwebostv.png",
-      "shortDescription": "Kick TV client for webOS",
-      "fullDescriptionUrl": "https://raw.githubusercontent.com/Tamulus47/apps-repo/main/apps/com.tamulus.ancientkickwebostv.description.html",
-      "category": "internet",
-      "pool": "main",
-      "manifest": {
-        "id": "com.tamulus.ancientkickwebostv",
-        "version": "1.0.0",
-        "type": "web",
-        "title": "Kick TV",
-        "appDescription": "Kick TV client for webOS",
-        "iconUri": "https://raw.githubusercontent.com/Tamulus47/apps-repo/main/icons/com.tamulus.ancientkickwebostv.png",
-        "sourceUrl": "https://github.com/Tamulus47/KickWebOSTV",
-        "rootRequired": false,
-        "ipkUrl": "https://raw.githubusercontent.com/Tamulus47/apps-repo/main/apps/com.tamulus.ancientkickwebostv_1.0.0_all.ipk",
-        "ipkHash": {
-          "sha256": "145eb6ddbd6eb1ee0f02d0c07246accfabd44a5e42ce15b987ca9da55bf06acb"
-        },
-        "ipkSize": 35208
-      }
-    }
-  ]
+    "ipkSize": 81804
+   }
+  },
+  {
+   "id": "com.tamulus.ancientkickwebostv",
+   "title": "Kick TV",
+   "iconUri": "https://raw.githubusercontent.com/Tamulus47/apps-repo/main/icons/com.tamulus.ancientkickwebostv.png",
+   "shortDescription": "Kick TV client for webOS",
+   "fullDescriptionUrl": "https://raw.githubusercontent.com/Tamulus47/apps-repo/main/apps/com.tamulus.ancientkickwebostv.description.html",
+   "category": "internet",
+   "pool": "main",
+   "manifest": {
+    "id": "com.tamulus.ancientkickwebostv",
+    "version": "1.0.0",
+    "type": "web",
+    "title": "Kick TV",
+    "appDescription": "Kick TV client for webOS",
+    "iconUri": "https://raw.githubusercontent.com/Tamulus47/apps-repo/main/icons/com.tamulus.ancientkickwebostv.png",
+    "sourceUrl": "https://github.com/Tamulus47/KickWebOSTV",
+    "rootRequired": false,
+    "ipkUrl": "https://raw.githubusercontent.com/Tamulus47/apps-repo/main/apps/com.tamulus.ancientkickwebostv_1.0.0_all.ipk",
+    "ipkHash": {
+     "sha256": "145eb6ddbd6eb1ee0f02d0c07246accfabd44a5e42ce15b987ca9da55bf06acb"
+    },
+    "ipkSize": 35208
+   }
+  }
+ ]
 }
