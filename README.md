@@ -20,6 +20,10 @@ personal repository, not affiliated with the official webosbrew repository.
    https://raw.githubusercontent.com/Tamulus47/apps-repo/main/manifest.json
    ```
 
+   > **Not** `https://github.com/Tamulus47/apps-repo` — that is the GitHub web page,
+   > which returns HTML. Homebrew Channel needs the raw JSON index, otherwise it fails
+   > with `An error occured while downloading some repositories ... (600)`.
+
 3. Go back to **Browse**. Both apps appear in the list, marked with
    `(from https://raw.githubusercontent.com/Tamulus47/apps-repo/main/manifest.json)`.
 4. Open an app and choose **Install**. Homebrew Channel verifies the SHA-256 of the
